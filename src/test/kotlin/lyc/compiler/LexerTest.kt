@@ -45,7 +45,7 @@ class LexerTest {
     @Test
     fun invalidPositiveIntegerConstantValue() {
         assertThrows(InvalidIntegerException::class.java) {
-            scan("%d".formatted(9223372036854775807L))
+            scan(String.format("%d", 9223372036854775807L))
             nextToken()
         }
     }
