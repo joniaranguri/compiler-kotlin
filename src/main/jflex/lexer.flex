@@ -1,10 +1,7 @@
 package lyc.compiler;
 
 import java_cup.runtime.Symbol;
-import lyc.compiler.ParserSym;
 import lyc.compiler.model.*;
-import static lyc.compiler.constants.Constants.*;
-
 %%
 
 %public
