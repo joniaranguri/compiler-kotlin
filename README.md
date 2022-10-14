@@ -211,14 +211,14 @@ Esta función del lenguaje repetirá un conjunto de una o más sentencias [sente
 `REPEAT ctentera [sentencias]
 `
 
-## Instrucciones para uso de la Plantilla JAVA
+## Instrucciones para uso de la Plantilla Kotlin
 
 Para entender cómo usar esta plantilla, lea [estas instrucciones](Template-Instructions.MD).
 
 
 ## ¿Puedo usar otro lenguaje para el Trabajo Práctico?
 
-Si bien la cátedra provee material y recursos para desarrollar el TP en JAVA, estamos abierto al uso de otras
+Si bien la cátedra provee material y recursos para desarrollar el TP en Kotlin, estamos abierto al uso de otras
 tecnologías.
 
 Probablemente, el uso de otras herramientas requerirá un trabajo de investigación adicional al grupo/equipo que así lo decida, y mayor
@@ -230,6 +230,7 @@ De igual forma, el esfuerzo de investigación de otras herramientas será tenido
 Dejamos a continuación, links útiles para implementar un compilador en otros lenguajes: 
 
 [(Plantilla para TP Integrador usando Flex y Bison - C)](https://github.com/Lenguajes-y-Compiladores-UnLaM/compiler-c)
+[(Plantilla para TP Integrador usando JFlex y JCup - JAVA)](https://github.com/Lenguajes-y-Compiladores-UnLaM/compiler-java)
 
 
 
